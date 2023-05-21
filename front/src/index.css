@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  background: #1b1f33;
+}
+
+/* 
+테두리 색: #E6A15C; (노랑)
+내용색 : #232a3f
+글색 : 8F98B3
+*/
